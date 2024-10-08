@@ -9,9 +9,8 @@ h1 {
 }
 .projects { 
     display:flex; 
-    flex-wrap:wrap; 
-    width: 20%;
-} 
+    flex-wrap:wrap
+}
 .project {
 width: 20%;
 margin: 10px;
