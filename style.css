@@ -9,7 +9,7 @@ h1 {
 
 }
 .projects { 
-    display:flex; 
+    display:contents; 
     flex-wrap:wrap
     width=20%; 
 }
