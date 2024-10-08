@@ -8,15 +8,11 @@ h1 {
     color:darkmagenta
 
 }
-
-.projects { 
-    display:flex; 
-    flex-wrap:wrap;
-}
+.projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
-    width: 20%;
-    margin: 10px;
-    padding: 20px 10px;
-    background: rgb(41, 152, 255); /* pick a color */
-    border-radius: 25%;
+width: 20%;
+margin: 10px;
+padding: 20px 10px;
+background: rgb(41, 152, 255); /* pick a color */
+border-radius: 25%;
 }
