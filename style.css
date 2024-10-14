@@ -7,13 +7,13 @@ h1 {
     text-align: center;
     color:darkmagenta
 }
-.projects { 
+.project { 
     display:flex; 
     flex-wrap:wrap; 
 } /* condensed to save space */
 
 
-.project {
+.projects {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
