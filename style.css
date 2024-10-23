@@ -1,11 +1,11 @@
 body {
-    background-color: wheat;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: salmon;
+    font-family: 'Times New Roman', 'Times New Roman', Times, serif;
 
 }
 h1 {
     text-align: center;
-    color:darkmagenta
+    color:floralwhite;
 }
 .projects { 
     display:flex; 
@@ -14,7 +14,7 @@ h1 {
 
 
 .project {
-width: 300%;
+width: 30%;
 margin: 10px;
 padding: 20px 10px;
 background: rgb(41, 152, 255); /* pick a color */
