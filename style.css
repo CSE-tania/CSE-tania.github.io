@@ -13,14 +13,14 @@ h1 {
 } /* condensed to save space */
 
 
-    .project {
+    .projects {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
     background: rgb(41, 152, 255); /* pick a color */
     border-radius: 25%;
 }
-.project img{
+.projects img{
     width: 300px;
     /* height: 300px; */
     margin: 10px;
